@@ -1,7 +1,6 @@
 # Pilares
 Los cuatro pilares de la Programación Orientada a Objetos (POO) son conceptos fundamentales que ayudan a diseñar y desarrollar software de manera más organizada, modular y reutilizable. 
-Estos pilares son: Encapsulación, Abstracción, Herencia y Polimorfismo. Aquí te proporcionaré una explicación breve de cada uno, junto con ejemplos de código en lenguaje Java.
-
+Estos pilares son:
 Encapsulación:
 La encapsulación se refiere a la idea de ocultar los detalles internos de un objeto y exponer solo una interfaz bien definida para interactuar con él. 
 Esto se logra mediante el uso de modificadores de acceso (como private, protected, public) para controlar el acceso a los miembros internos (variables y métodos) de una clase.
