@@ -13,3 +13,7 @@ Los detalles innecesarios se ocultan y solo se muestran los aspectos relevantes 
 Herencia:
 La herencia permite crear una nueva clase (subclase) basada en una clase existente (superclase). La subclase hereda atributos y comportamientos de la superclase, 
 lo que promueve la reutilización de código y la organización jerárquica de clases.
+
+Polimorfismo:
+El polimorfismo permite que un objeto se comporte de diferentes formas dependiendo del contexto. Se logra mediante el uso de herencia y
+la capacidad de una clase para implementar métodos con la misma firma pero comportamientos diferente
